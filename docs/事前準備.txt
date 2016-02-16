@@ -1,0 +1,7 @@
+教學網站:
+	http://www.java3d.org/tutorial.html
+
+需事先灌
+	https://java3d.java.net/binary-builds.html
+	
+	j3d-1_5_2-windows-i586.exe
